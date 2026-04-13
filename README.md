@@ -1,7 +1,3 @@
-### Windows 11 Delboat
+### [Windows 11 Delboat](https://github.com/Raphire/Win11Debloat)
 
-https://github.com/Raphire/Win11Debloat
-
-### Moodle osório
-
-https://moodle.osorio.ifrs.edu.br/
+### [Moodle osório](https://moodle.osorio.ifrs.edu.br/)
