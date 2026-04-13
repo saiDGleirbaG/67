@@ -2,7 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 
 public class TelaLogin extends JFrame {
-
     JLabel rotuloUsuario = new JLabel("Usuário");
     JLabel rotuloSenha = new JLabel("Senha");
     JTextField campoUsuario = new JTextField(20);
@@ -10,7 +9,6 @@ public class TelaLogin extends JFrame {
     JButton btEntrar = new JButton("Entrar");
 
     public TelaLogin() {
-
         setLayout(new FlowLayout());
         setTitle("Tela Principal");
 
